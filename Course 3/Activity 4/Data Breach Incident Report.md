@@ -28,16 +28,22 @@ In this activity, you will write a security risk assessment to analyze the incid
 
 Security risk assessment report 
 
-Part 1: Select up to three hardening tools and methods to implement
+Part 1: Select up to three hardening tools and methods to implement:
+
 Multi-Factor Authentication (MFA): A security measure which requires a user to verify their identity in two or more ways to access a system or network. MFA options include a password, pin number, badge, one-time password (OTP) sent to a cell phone, fingerprint, and more. It can help protect against brute force attacks and similar security events. MFA can be implemented at any time, and is mostly a technique that is set up once then maintained.
+
 Firewalls Maintenance: Firewall maintenance entails checking and updating security configurations regularly to stay ahead of potential threats. Firewall rules can be updated in response to an event that allows abnormal network traffic into the network. This measure can be used to protect against various attacks.
+
 Password Policies: Using methods to salt and hash passwords, rather than requiring overly complex passwords or enforcing frequent changes to passwords. Password policies are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack). 
 
 
 
-Part 2: Explain your recommendations
+Part 2: Explain your recommendations. 
+
 With MFA, the organization can reduce the likelihood of malicious actors accessing a network. Under normal circumstances, the malicious actors will use “Brute Force Attack” or other related attacks to conduct the attacks. MFA also promotes secure identity access to the network.
+
 Strong password policies will make the company powerful against hackers trying to hack the network.
+
 A firewall can detect suspicious incoming and outgoing traffic. The administrator should monitor this regularly. In addition, this measure is to protect against various DoS and DDoS attacks. Also, port filtering can control the network traffic and prevent attackers from entering a private network.
 
 
