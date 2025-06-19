@@ -8,3 +8,4 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 
 Note: This scenario involves investigating and updating the same file permissions as the ones in the Manage authorization lab.  You can revisit the lab to get screenshots to include in your portfolio document. If you choose, it's also possible to complete this activity without revisiting the lab by typing your commands in the template.
+
