@@ -59,3 +59,5 @@ vendor_sales - Information about Buttercup Games' retail sales.
 * The `host` field specifies the name of a host, such as a network device or other system, from which an event originates.
 * From the scenario, The `vendor_sales` host provides information about Buttercup Games' retail sales, such as the number of products sold.
 * As of August 20th, 2025, there have been 346 failed SSH logins for the root account on the mail server.
+
+> Farhan Ahmed - Cybersecurity Portfolio
